@@ -56,7 +56,8 @@ Agora você vai baixar este repositório para o seu computador. Escolha a forma 
 
 ```bash
 
-(https://github.com/AlissonSilvasp/dio-agent-nist-iso27001.git)```
+(https://github.com/AlissonSilvasp/dio-agent-nist-iso27001.git)
+```
 
 **Opção B: baixando o .zip** (se você não usa Git)
 
